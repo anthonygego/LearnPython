@@ -1,0 +1,16 @@
+name: Learning Python 2
+admins:
+- pre
+- gderval
+- detiennen
+- gegoa
+- vvandens
+accessible: true
+registration: true
+registration_password: null
+groups: false
+tutors: []
+registration_ac: null
+registration_ac_list:
+- ''
+groups_student_choice: true
